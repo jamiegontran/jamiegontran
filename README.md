@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on everything code.
 - 📫 Send me an email: jamiegontran@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an introvert who spends all of my time indoors.
 
 <!---
 jamiegontran/jamiegontran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
